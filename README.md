@@ -1,3 +1,4 @@
+```
 -----------------------------------
 |     Que voulez vous faire ?     |
 -----------------------------------
@@ -9,7 +10,7 @@
 |   g : générer un mdp            |
 |   q : quitter                   |
 -----------------------------------
-
+```
 I don't want to do a clean readme. It's a school project.
 
 # NOTHING HERE
